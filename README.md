@@ -1,0 +1,1 @@
+Store the nginx.conf in the `~/wordpress/nginx-conf/nginx.conf` directory
